@@ -1,36 +1,78 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Gemini — Front-End Developer & Interface Designer
 
-## Getting Started
+<!-- Note: Upload the banner I generated for you to your public folder and name it 'banner.png' for it to appear above -->
 
-First, run the development server:
+⚡ About The Project
 
-```bash
+This is the official portfolio for Gemini, a Web3 Designer and Front-End Developer.
+
+The site is a minimalist, high-performance showcase designed to bridge the gap between design conception and code delivery. Built with the Next.js App Router, it focuses on clean geometry, dark-mode aesthetics, and a fluid user experience suitable for the Web3 space.
+
+🌟 Key Features
+
+App Router Architecture: Utilizing the latest Next.js 14+ server components.
+
+Web3 Aesthetic: Premium dark mode (#0B0B0C), minimalist typography, and subtle micro-interactions.
+
+Responsive Design: Fluid layouts that work seamlessly across desktop, tablet, and mobile.
+
+Optimized Assets: Automatic font optimization using next/font (Geist) and optimized images.
+
+🛠️ Tech Stack
+
+Framework: Next.js
+
+Language: TypeScript
+
+Styling: Tailwind CSS
+
+Fonts: Plus Jakarta Sans, Space Grotesk
+
+Deployment: Vercel
+
+🚀 Getting Started
+
+To run this project locally, follow these steps:
+
+1. Clone the repository
+
+git clone [https://github.com/thegrandgemini/my-portfolio.git](https://github.com/thegrandgemini/my-portfolio.git)
+cd gemini-portfolio
+
+2. Install dependencies
+
+npm install
+
+# or
+
+yarn install
+
+# or
+
+pnpm install
+
+# or
+
+bun install
+
+3. Run the development server
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000 with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+🚢 Deploy on Vercel
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The easiest way to deploy your Next.js app is to use the Vercel Platform.
 
-## Learn More
+Push your code to a GitHub repository.
 
-To learn more about Next.js, take a look at the following resources:
+Import the project into Vercel.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Vercel will detect Next.js and deploy automatically.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+📬 Contact
 
-## Deploy on Vercel
+Gemini - Web3 Designer & Front End Dev
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<p><a href='https://x.com/0xGemini0'> Twitter/X</a></p>
