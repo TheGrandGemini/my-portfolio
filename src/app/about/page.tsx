@@ -36,7 +36,7 @@ const design = [
 
 const workflow = [
 	{ src: '/logos/notion.svg', alt: 'Notion Logo', name: 'Notion' },
-	{ src: '/logos/loom.svg', alt: 'Loom Logo', name: 'Loom' },
+	{ src: '/logos/Loom.svg', alt: 'Loom Logo', name: 'Loom' },
 ];
 
 const noCode = [

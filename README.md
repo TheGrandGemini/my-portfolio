@@ -1,7 +1,5 @@
 Gemini — Front-End Developer & Interface Designer
 
-<!-- Note: Upload the banner I generated for you to your public folder and name it 'banner.png' for it to appear above -->
-
 ⚡ About The Project
 
 This is the official portfolio for Gemini, a Web3 Designer and Front-End Developer.

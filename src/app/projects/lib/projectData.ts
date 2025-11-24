@@ -47,20 +47,4 @@ export const projectData = [
 		projectLink: 'https://lumora-gamma.vercel.app/',
 		repoLink: 'https://github.com/your-username/defi-dashboard',
 	},
-	{
-		id: 4,
-		title: 'Testing',
-		category: 'DApp',
-		description:
-			'A high-performance Web3 portfolio tracker built with Next.js, TypeScript, and TailwindCSS. I crafted a sleek, responsive interface with smooth animations, wallet integration, and real-time asset tracking across networks, delivering a modern, user-friendly experience that makes managing on-chain assets effortless.',
-		imageSrc: '/projects/lumora2.png',
-		techIcons: [
-			{ src: '/logos/nextjs.svg', alt: 'Next.js' },
-			{ src: '/logos/typescript.svg', alt: 'TypeScript' },
-			{ src: '/logos/tailwindcss.svg', alt: 'TailwindCSS' },
-			{ src: '/logos/zustand.svg', alt: 'Zustand' },
-		],
-		projectLink: 'https://lumora-gamma.vercel.app/',
-		repoLink: 'https://github.com/your-username/defi-dashboard',
-	},
 ];
